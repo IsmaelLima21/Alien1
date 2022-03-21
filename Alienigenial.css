@@ -762,6 +762,7 @@
 .u-section-7 .u-video-1 {
   height: 362px;
   width: 800px;
+  box-shadow: 2px 2px 8px 0 rgba(224,229,235,1);
   margin: 33px auto;
 }
 
